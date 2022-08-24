@@ -1,1 +1,2 @@
-# questoes_Beecrowd
+Questões respondidas do beecrowd. 
+Linguagens = Python e C
